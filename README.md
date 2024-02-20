@@ -1,5 +1,6 @@
 # SplaTTRPG
 A tabletop roleplaying game system inspired by Nintendo’s Splatoon series.
+
 Version 1.0.0­­­, May 2023
 
 ## Introduction
