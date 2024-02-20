@@ -27,25 +27,25 @@ Each day is broken into four sections: morning, afternoon, evening, and night. I
 
 Each section, a character may choose one of the following things to do:
 
-• Socialize – Hang out in the plaza!
-    ◦ Roll 1d6. Subtract that value from your Social energy pool.
-    ◦ You may purchase clothes, weapons, and décor.
-    ◦ Alternatively, you may attempt to socialize with a NPC, at the GM’s discretion.
-        ▪ If you succeed, gain +1 in a Social Skill of your or your GM’s choosing.
-• Battle – Duke it out for cash and fame!
-    ◦ Roll 1d6. Subtract that value from BOTH energy pools. Choose one of the following:
-        ▪ Turf War: roll 1d6.
-            • If even: gain 500 Cash.
-            • If odd: gain 1500 Cash.
-        ▪ Anarchy Battle & Salmon Run: to be added in future versions.
-• Adventure – Spend some time exploring!
-    ◦ Roll 1d6. Subtract that value from your Physical energy pool.
-    ◦ Complete a task or obstacle course determined by the GM or pre-constructed (note: there are no pre-constructed obstacles in this version of the game).
-        ▪ If you succeed, gain +1 in a Technical Skill of your choosing.
-• Head Home – Take a breather back at your pad! 
-    ◦ Refill both energy pools. 
-    ◦ If you choose this option twice in a row, gain 2d6 temporary energy points, distributed in whatever fashion you wish.
-    ◦ Additionally, you may use this time to equip different items and/or decorate your space.
+* Socialize – Hang out in the plaza!
+  * Roll 1d6. Subtract that value from your Social energy pool.
+  * You may purchase clothes, weapons, and décor.
+  * Alternatively, you may attempt to socialize with a NPC, at the GM’s discretion.
+    * If you succeed, gain +1 in a Social Skill of your or your GM’s choosing.
+* Battle – Duke it out for cash and fame!
+  * Roll 1d6. Subtract that value from BOTH energy pools. Choose one of the following:
+    * Turf War: roll 1d6.
+      * If even: gain 500 Cash.
+      * If odd: gain 1500 Cash.
+        * Anarchy Battle & Salmon Run: to be added in future versions.
+* Adventure – Spend some time exploring!
+  * Roll 1d6. Subtract that value from your Physical energy pool.
+  * Complete a task or obstacle course determined by the GM or pre-constructed (note: there are no pre-constructed obstacles in this version of the game).
+    * If you succeed, gain +1 in a Technical Skill of your choosing.
+* Head Home – Take a breather back at your pad! 
+  * Refill both energy pools. 
+  * If you choose this option twice in a row, gain 2d6 temporary energy points, distributed in whatever fashion you wish.
+  * Additionally, you may use this time to equip different items and/or decorate your space.
 
 At the end of a day, each player’s level increases by one.
 
@@ -76,13 +76,4 @@ The Angry GM – Systemic InterACTION!
 Inkipedia: The Splatoon Wikipedia
 
 ## Special Thanks
-Marissa Schwartz
-Reese Ochoa
-Laney Maize
-Keith Murray
-Noah Ronek
-Anna Dias
-Connor Pringle
-Jocelynn Williams
-Kevin May
-Heidi & Olly Broderick
+Heidi, Olly, J, Connor, Anna, Noah, Percy
