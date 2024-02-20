@@ -68,12 +68,12 @@ It is not necessary to play this game with a GM. Here are a few examples of how 
 3. A group of players determine that their characters exist in the same world, but they do not focus on interacting with one another. The state of the world is kept in a shared location, and things done by player characters can impact the state of the world. Characters can grow relationships and interact with each other without ever talking out of character.
 
 ## References
-The Free RPG Blog
-Rob Lang’s Free Guide to Organizing Your RPG 
-How to Write a Free RPG 
-r/RPGdesign Subreddit Wiki 
-The Angry GM – Systemic InterACTION!
-Inkipedia: The Splatoon Wikipedia
+* The Free RPG Blog
+* Rob Lang’s Free Guide to Organizing Your RPG 
+* How to Write a Free RPG 
+* r/RPGdesign Subreddit Wiki 
+* The Angry GM – Systemic InterACTION!
+* Inkipedia: The Splatoon Wikipedia
 
 ## Special Thanks
 Heidi, Olly, J, Connor, Anna, Noah, Percy
