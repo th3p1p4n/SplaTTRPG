@@ -1,8 +1,6 @@
 # SplaTTRPG
 A tabletop roleplaying game system inspired by Nintendo’s Splatoon series.
-Version 1.0.0­­­
-
-Andy Broderick, 2023
+Version 1.0.0­­­, May 2023
 
 ## Introduction
 There exists a distant future -- one of many -- where after the fall of the last remaining human society, the essence of mankind will be infused into the creatures that remain. This is the setup for Nintendo's Splatoon games: a benevolent post-apocalyptic world where, despite the extinction of land-dwelling mammals, twisted remnants of humanity remain.
